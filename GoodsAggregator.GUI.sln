@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodsAggregator.GUI", "GoodsAggregator.GUI\GoodsAggregator.GUI.csproj", "{C5E73AE8-BDF0-4D0C-9E1E-B2A573E5FA8A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodsAggregator.Partsers", "GoodsAggregator.Partsers\GoodsAggregator.Partsers.csproj", "{9D8FC321-0871-4DDF-83CA-038662DA620F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoodsAggregator.Parsers", "GoodsAggregator.Partsers\GoodsAggregator.Parsers.csproj", "{9D8FC321-0871-4DDF-83CA-038662DA620F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodsAggregator.DAL", "GoodsAggregator.DAL\GoodsAggregator.DAL.csproj", "{90AEA65A-7162-4431-B6E7-9049387A0C20}"
 EndProject

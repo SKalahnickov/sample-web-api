@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace GoodsAggregator.Partsers.DAL
+namespace GoodsAggregator.Parsers.DAL
 {
 	public class ParserContext : BaseContext
 	{
